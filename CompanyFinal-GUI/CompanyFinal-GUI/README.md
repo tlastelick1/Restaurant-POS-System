@@ -1,2 +1,2 @@
 # CompanyFinal
-This is the real deal.
+GUI Restaurant POS system designed for managers to handle employee functions (hire, fire, calculate wages, etc).
